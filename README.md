@@ -37,6 +37,10 @@ You can also export a fresh `.unitypackage` from the tool: **Export .unitypackag
 - Instagram: [@blueberry_fluf](https://www.instagram.com/blueberry_fluf/)
 Suggestions and bug reports welcome on Discord.
 ---
+
+## Small Note
+Without this patch the maw animations on Rexouium Evolved were kinda broken for me when using SSVS. This just fixes those so the mouth stuff actually works.
+
 ## License
 Blueberry_fluf  
 Free to use on your own avatars.  

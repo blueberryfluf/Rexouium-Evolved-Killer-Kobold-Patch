@@ -1,5 +1,5 @@
-# BlueBerry · Rexouium Evolved + Killer Kobold Carrier Patch
-**by blueberry** · 0.1
+# BlueBerry_fluf · Rexouium Evolved + Killer Kobold Carrier Patch
+**by blueberry_fluf** · 0.1
 Editor tool that patches [Killer Kobold](https://app.gumroad.com/killerkobold)’s carrier / vore system so it plays nicer on **Rexouium Evolved**.
 Maw open, gulp, delayed belly + stomach size, burps, and lip sync — pick your avatar base and hit Patch.
 ---
@@ -39,7 +39,7 @@ You can also export a fresh `.unitypackage` from the tool: **Export .unitypackag
 Suggestions and bug reports welcome on Discord.
 ---
 ## License
-© blueberry  
+Blueberry_fluf  
 Free to use on your own avatars.  
 Don’t reupload or resell this tool as your own.
 Rexouium Evolved and Killer Kobold belong to their respective creators — buy / use those assets under their own terms.

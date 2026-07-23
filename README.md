@@ -1,7 +1,6 @@
 # BlueBerry_fluf · Rexouium Evolved + Killer Kobold Carrier Patch
 **by blueberry_fluf** · 0.1
-Editor tool that patches [Killer Kobold](https://app.gumroad.com/killerkobold)’s carrier / vore system so it plays nicer on **Rexouium Evolved**.
-Maw open, gulp, delayed belly + stomach size, burps, and lip sync — pick your avatar base and hit Patch.
+Unity tool that patches Killer Kobold’s carrier system for Rexouium Evolved — gulp, maw, belly, lip sync. (not fully but to a working state)
 ---
 ## Requirements
 - Unity + VRChat SDK  
